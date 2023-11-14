@@ -9,14 +9,14 @@ The goal of this dataset is to understand the important factors that play a role
 # Data Dictionary :
 infoavail = the availability of information about the city services
 
-housecost = the cost of housing
+## housecost = the cost of housing
 
-schoolquality = the overall quality of public schools
+## schoolquality = the overall quality of public schools
 
-policetrust = your trust in the local police
+## policetrust = your trust in the local police
 
-streetquality = the maintenance of streets and sidewalks
+## streetquality = the maintenance of streets and sidewalks
 
-events = the availability of social community 
+## events = the availability of social community 
 
-happy = decision attribute (D) with values 0 (unhappy) and 1 (happy)
+## happy = decision attribute (D) with values 0 (unhappy) and 1 (happy)
